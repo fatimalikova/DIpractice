@@ -15,13 +15,5 @@ namespace IoCandDI.Services
             _studentRepo.AddStudent(new Student { Id = 1, Name = "John Doe", Description = "A sample student" });
         }
         
-        public void GetStudentById(int id)
-        {
-            _studentRepo.GetStudent(id);
-        }
-        public void UpdateStudent(Student student)
-        {
-            _studentRepo.UpdateStudent(student);
-        }
     }
 }
