@@ -14,7 +14,12 @@ namespace IoCandDI.Repositories
 
         public void DeleteStudent(int id)
         {
-            throw new NotImplementedException();
+            if(id <= 0)
+            {
+                throw new ArgumentException("Id must be greater than zero.");
+            }
+
+            Console.WriteLine(id + " Id-li telebe silindi!");
         }
 
         public Student GetStudent(int id)

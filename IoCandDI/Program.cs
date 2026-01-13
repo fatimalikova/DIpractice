@@ -9,7 +9,13 @@
 //Dependency Injection => Constructor Injection, Property Injection, Method Injection   
 
 using IoCandDI.Services;
+using IoCandDI.Repositories;
+using IoCandDI.Models;
+//StudentService studentService = new StudentService();
+//studentService.CreateStudent();
+//Console.WriteLine("Student created successfully.");
 
-StudentService studentService = new StudentService();
-studentService.CreateStudent();
-Console.WriteLine("Student created successfully.");
+StudentRepository studentRepository = new StudentRepository();
+studentRepository.AddStudent(new Student { Id = 1, Name = "John Doe", Description = "A sample student" });
+Console.WriteLine("Student added successfully.");
+
