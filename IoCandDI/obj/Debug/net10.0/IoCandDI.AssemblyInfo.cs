@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IoCandDI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+192108a97a24aa304e2f392900d54ee4b9fb77e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c9d81b8366ff7edd5df43287b2cbe3e7a347e68")]
 [assembly: System.Reflection.AssemblyProductAttribute("IoCandDI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IoCandDI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

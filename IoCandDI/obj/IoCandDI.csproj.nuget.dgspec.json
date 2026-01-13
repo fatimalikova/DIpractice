@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fmeli\\OneDrive\\Desktop\\DI\\IoCandDI\\IoCandDI\\IoCandDI.csproj": {}
+    "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\DI\\IoCandDI\\IoCandDI\\IoCandDI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fmeli\\OneDrive\\Desktop\\DI\\IoCandDI\\IoCandDI\\IoCandDI.csproj": {
+    "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\DI\\IoCandDI\\IoCandDI\\IoCandDI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fmeli\\OneDrive\\Desktop\\DI\\IoCandDI\\IoCandDI\\IoCandDI.csproj",
+        "projectUniqueName": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\DI\\IoCandDI\\IoCandDI\\IoCandDI.csproj",
         "projectName": "IoCandDI",
-        "projectPath": "C:\\Users\\fmeli\\OneDrive\\Desktop\\DI\\IoCandDI\\IoCandDI\\IoCandDI.csproj",
+        "projectPath": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\DI\\IoCandDI\\IoCandDI\\IoCandDI.csproj",
         "packagesPath": "C:\\Users\\fmeli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fmeli\\OneDrive\\Desktop\\DI\\IoCandDI\\IoCandDI\\obj\\",
+        "outputPath": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\DI\\IoCandDI\\IoCandDI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
