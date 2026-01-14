@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fmeli\\OneDrive\\Desktop\\DI\\IoCandDI\\",
+  "WorkspaceRootPath": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\DI\\IoCandDI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52015E10-38BF-F9D1-2E77-CE4BDDC9F9DD}|IoCandDI\\IoCandDI.csproj|c:\\users\\fmeli\\onedrive\\desktop\\di\\iocanddi\\iocanddi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52015E10-38BF-F9D1-2E77-CE4BDDC9F9DD}|IoCandDI\\IoCandDI.csproj|solutionrelative:iocanddi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52015E10-38BF-F9D1-2E77-CE4BDDC9F9DD}|IoCandDI\\IoCandDI.csproj|c:\\users\\fmeli\\onedrive\\desktop\\di\\iocanddi\\iocanddi\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52015E10-38BF-F9D1-2E77-CE4BDDC9F9DD}|IoCandDI\\IoCandDI.csproj|c:\\users\\fmeli\\onedrive\\desktop\\code academy\\di\\iocanddi\\iocanddi\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52015E10-38BF-F9D1-2E77-CE4BDDC9F9DD}|IoCandDI\\IoCandDI.csproj|solutionrelative:iocanddi\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52015E10-38BF-F9D1-2E77-CE4BDDC9F9DD}|IoCandDI\\IoCandDI.csproj|c:\\users\\fmeli\\onedrive\\desktop\\di\\iocanddi\\iocanddi\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52015E10-38BF-F9D1-2E77-CE4BDDC9F9DD}|IoCandDI\\IoCandDI.csproj|c:\\users\\fmeli\\onedrive\\desktop\\code academy\\di\\iocanddi\\iocanddi\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52015E10-38BF-F9D1-2E77-CE4BDDC9F9DD}|IoCandDI\\IoCandDI.csproj|solutionrelative:iocanddi\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52015E10-38BF-F9D1-2E77-CE4BDDC9F9DD}|IoCandDI\\IoCandDI.csproj|c:\\users\\fmeli\\onedrive\\desktop\\di\\iocanddi\\iocanddi\\iocanddi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{52015E10-38BF-F9D1-2E77-CE4BDDC9F9DD}|IoCandDI\\IoCandDI.csproj|c:\\users\\fmeli\\onedrive\\desktop\\code academy\\di\\iocanddi\\iocanddi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52015E10-38BF-F9D1-2E77-CE4BDDC9F9DD}|IoCandDI\\IoCandDI.csproj|solutionrelative:iocanddi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52015E10-38BF-F9D1-2E77-CE4BDDC9F9DD}|IoCandDI\\IoCandDI.csproj|c:\\users\\fmeli\\onedrive\\desktop\\code academy\\di\\iocanddi\\iocanddi\\iocanddi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{52015E10-38BF-F9D1-2E77-CE4BDDC9F9DD}|IoCandDI\\IoCandDI.csproj|solutionrelative:iocanddi\\iocanddi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -26,28 +26,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\DI\\IoCandDI\\IoCandDI\\Services\\StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\DI\\IoCandDI\\IoCandDI\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "IoCandDI\\Services\\StudentService.cs",
-              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\DI\\IoCandDI\\IoCandDI\\Services\\StudentService.cs",
-              "RelativeToolTip": "IoCandDI\\Services\\StudentService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\DI\\IoCandDI\\IoCandDI\\Services\\StudentService.cs*",
+              "RelativeToolTip": "IoCandDI\\Services\\StudentService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T19:26:25.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\DI\\IoCandDI\\IoCandDI\\Repositories\\StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\DI\\IoCandDI\\IoCandDI\\Repositories\\StudentRepository.cs",
               "RelativeDocumentMoniker": "IoCandDI\\Repositories\\StudentRepository.cs",
-              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\DI\\IoCandDI\\IoCandDI\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\DI\\IoCandDI\\IoCandDI\\Repositories\\StudentRepository.cs",
               "RelativeToolTip": "IoCandDI\\Repositories\\StudentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,29 +56,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\DI\\IoCandDI\\IoCandDI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\DI\\IoCandDI\\IoCandDI\\Program.cs",
               "RelativeDocumentMoniker": "IoCandDI\\Program.cs",
-              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\DI\\IoCandDI\\IoCandDI\\Program.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\DI\\IoCandDI\\IoCandDI\\Program.cs",
               "RelativeToolTip": "IoCandDI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwA4AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T19:25:35.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T19:25:35.324Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IoCandDI",
-              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\DI\\IoCandDI\\IoCandDI\\IoCandDI.csproj",
+              "Title": "IoCandDI.csproj",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\DI\\IoCandDI\\IoCandDI\\IoCandDI.csproj",
               "RelativeDocumentMoniker": "IoCandDI\\IoCandDI.csproj",
-              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\DI\\IoCandDI\\IoCandDI\\IoCandDI.csproj",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Code Academy\\DI\\IoCandDI\\IoCandDI\\IoCandDI.csproj",
               "RelativeToolTip": "IoCandDI\\IoCandDI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-13T19:25:31.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T19:25:31.344Z"
             }
           ]
         }
